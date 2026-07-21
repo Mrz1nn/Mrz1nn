@@ -10,6 +10,11 @@ Sites, SaaS, sistemas internos e automações criados com estratégia, design e 
 
 <br>
 
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1200&color=2F9E7C&center=true&vCenter=true&repeat=true&width=650&height=32&lines=Sites%2C+SaaS%2C+sistemas+e+automa%C3%A7%C3%B5es;Estrat%C3%A9gia%2C+design+e+c%C3%B3digo+no+mesmo+processo;Tecnologia+com+fun%C3%A7%C3%A3o+real"
+  alt="Sites, SaaS, sistemas e automações"
+/>
+
 <a href="https://www.pauloamorim.online/" title="Conheça meu portfólio">
   <img
     height="38"
