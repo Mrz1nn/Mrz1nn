@@ -140,7 +140,7 @@ Sites, SaaS, sistemas internos e automações criados com estratégia, design e 
         para mulheres com medo de dirigir.
       </p>
       <p>
-        <code>SAAS</code>
+        <code>Operação</code>
         <code>Estratégia</code>
         <code>Digital</code>
       </p>
